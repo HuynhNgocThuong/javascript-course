@@ -1,0 +1,20 @@
+{
+  "name": "js-labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "ThuongHuynh",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "babel-jest": "^27.2.5",
+    "jest": "^27.2.5"
+  }
+}
